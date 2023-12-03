@@ -4,8 +4,6 @@ public class Main {
         exampleConta.deposito(50);
         exampleConta.status();
         
-        int n1 = 5;
-        
     }
 
 }
